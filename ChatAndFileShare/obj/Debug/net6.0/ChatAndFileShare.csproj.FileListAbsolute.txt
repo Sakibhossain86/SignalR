@@ -1,0 +1,783 @@
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\appsettings.Development.json
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\appsettings.json
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\libman.json
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.staticwebassets.runtime.json
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.exe
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.deps.json
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.runtimeconfig.json
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.pdb
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Humanizer.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\MessagePack.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Build.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Common.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.csproj.AssemblyReference.cache
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.GeneratedMSBuildEditorConfig.editorconfig
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.AssemblyInfoInputs.cache
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.AssemblyInfo.cs
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.csproj.CoreCompileInputs.cache
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.MvcApplicationPartsAssemblyInfo.cache
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets\msbuild.ChatAndFileShare.Microsoft.AspNetCore.StaticWebAssets.props
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets\msbuild.build.ChatAndFileShare.props
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChatAndFileShare.props
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChatAndFileShare.props
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets.pack.json
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets.build.json
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets.development.json
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\scopedcss\bundle\ChatAndFileShare.styles.css
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.csproj.CopyComplete
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\refint\ChatAndFileShare.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.pdb
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.genruntimeconfig.cache
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ref\ChatAndFileShare.dll
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.RazorAssemblyInfo.cache
+D:\R50\Module 09\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.RazorAssemblyInfo.cs
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\appsettings.Development.json
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\appsettings.json
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\libman.json
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.staticwebassets.runtime.json
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.exe
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.deps.json
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.runtimeconfig.json
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.pdb
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Humanizer.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\MessagePack.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Build.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Common.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.csproj.AssemblyReference.cache
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.GeneratedMSBuildEditorConfig.editorconfig
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.AssemblyInfoInputs.cache
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.AssemblyInfo.cs
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.csproj.CoreCompileInputs.cache
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.MvcApplicationPartsAssemblyInfo.cache
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.RazorAssemblyInfo.cache
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.RazorAssemblyInfo.cs
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets\msbuild.ChatAndFileShare.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets\msbuild.build.ChatAndFileShare.props
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChatAndFileShare.props
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChatAndFileShare.props
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets.build.json
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets.development.json
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\scopedcss\bundle\ChatAndFileShare.styles.css
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.csproj.CopyComplete
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\refint\ChatAndFileShare.dll
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.pdb
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.genruntimeconfig.cache
+E:\Class 03\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ref\ChatAndFileShare.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\appsettings.json
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\libman.json
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.staticwebassets.runtime.json
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.exe
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.deps.json
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.runtimeconfig.json
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ChatAndFileShare.pdb
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\MessagePack.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.csproj.AssemblyReference.cache
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.AssemblyInfoInputs.cache
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.AssemblyInfo.cs
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.csproj.CoreCompileInputs.cache
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.RazorAssemblyInfo.cache
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.RazorAssemblyInfo.cs
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets\msbuild.ChatAndFileShare.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets\msbuild.build.ChatAndFileShare.props
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChatAndFileShare.props
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChatAndFileShare.props
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\scopedcss\bundle\ChatAndFileShare.styles.css
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.csproj.CopyComplete
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\refint\ChatAndFileShare.dll
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.pdb
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ChatAndFileShare.genruntimeconfig.cache
+C:\Users\LAB103-13\Downloads\ChatAndFileShare_Solution\ChatAndFileShare\obj\Debug\net6.0\ref\ChatAndFileShare.dll
